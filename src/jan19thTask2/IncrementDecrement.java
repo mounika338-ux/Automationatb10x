@@ -1,7 +1,7 @@
 package jan19thTask2;
 
-public class IncrementDecrement {
-    /* Finding the Largest of Three Numbers a,b,c using the Ternary Operator.
+public class IncrementDecrement {} /* {
+     Finding the Largest of Three Numbers a,b,c using the Ternary Operator.
 
     public static void main(String[] args) {
         int a=1;
